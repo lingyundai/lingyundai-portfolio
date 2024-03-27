@@ -1,3 +1,5 @@
 {
-    "Introduction": "Hi! My name is Lin. " 
+    "Introduction": ["Hi! My name is Lingyun Dai or just Lin.",
+                     "I am a software engineer who is interested in full-stack development and AI."
+                     ]
 }
