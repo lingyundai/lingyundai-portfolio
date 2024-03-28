@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        interLight: ['Inter-Extra-Light', 'sans-serif'],
+        nunitoLight: ['Nunito-Light', 'sans-serif'],
+        nunitoRegular: ['Nunito-Regular', 'sans-serif'],
       },
       fontSize: {
         lg: '18px',

@@ -1,5 +1,10 @@
 {
-    "Introduction": ["Hi! My name is Lingyun Dai or just Lin.",
-                     "I am a software engineer who is interested in full-stack development and AI."
-                     ]
+    "Introduction1": [
+        "Hi! My name is Lingyun Dai or just Lin. (she/her)"
+        ],
+    "Introduction2": [
+        "I am pursing a master's degree in Data Analytics Engineering at George Mason University in VA. Expected to graduate in 05/2025.",
+        "I love full-stack development and data analytics. I worked as software engineer for 2.5 years before pursing my master's.",
+        "I am currently doing interesting projects - developing applications, performing data analysis, and building machine learning models."
+        ]
 }

@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: "Inter-Extra-Light";
-    src: url("../src/assets/fonts/Inter-ExtraLight.ttf");
+    font-family: "Nunito-Light";
+    src: url("../src/assets/fonts/Nunito-Light.ttf");
 }
 
 @font-face {
-    font-family: "Inter-Semi-Bold";
-    src: url("../src/assets/fonts/Inter-SemiBold.ttf");
+    font-family: "Nunito-Regular";
+    src: url("../src/assets/fonts/Nunito-Regular.ttf");
 }
